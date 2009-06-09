@@ -9,7 +9,7 @@ Provides a template tag for a link for visitors to log out of password protected
 
 == Description ==
 
-There is no built-in way for your visitors to "log out" of password protected posts once they've entered the password. Even logged in users cannot log out of password protected posts by logging out of their account. This plugin solves that problem by providing a link for your visitors which will log them out of password protected posts.
+There is no built-in way for your visitors to "log out" of password protected posts once they've entered the password. Even logged in users cannot log out of password protected posts by logging out of their account. This plugin solves that problem by providing a link for your visitors which will log them out of password protected posts when clicked.
 
 == Installation ==
 
@@ -23,7 +23,7 @@ Those people who are logged in to password protected posts will now see a link t
 
 == Frequently Asked Questions ==
 
-= I've added the template tag to my theme but can't see the link. What's wrong? =
+= I've added the template tag to my theme but can't see the link. What's up? =
 
 Ensure that you have entered a password for a password protected post. The link will not show up if you're not logged into a password protected post.
 
