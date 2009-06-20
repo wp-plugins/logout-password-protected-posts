@@ -32,3 +32,8 @@ Ensure that you have entered a password for a password protected post. The link 
 Sure. Add a second parameter to the template tag with the text you'd like instead. For example: <code><?php do_action('posts_logout_link','Log out!'); ?></code>
 
 For those who want even more control, you can also add a third paramter which will be used as the class name on the link element.
+
+== Changelog ==
+
+= 0.1 =
+* Initial release.
