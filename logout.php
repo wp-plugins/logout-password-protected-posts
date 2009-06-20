@@ -20,11 +20,6 @@ Tested up to: 2.7.1
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 	GNU General Public License for more details.
 
-Changelog:
-
-0.1     2009/06/09
-Initial release.
-
 */
 
 function posts_logout() {
