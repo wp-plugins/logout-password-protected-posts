@@ -3,7 +3,7 @@ Contributors: johnbillion
 Donate link: http://lud.icro.us/donations/
 Tags: password, logout
 Requires at least: 2.7
-Tested up to: 2.8.4
+Tested up to: 2.9.9
 Stable tag: trunk
 
 Provides a template tag for a link for visitors to log out of password protected posts. Add <code>do_action('posts_logout_link')</code> to your theme where you want the link to appear.
