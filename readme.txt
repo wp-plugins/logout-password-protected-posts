@@ -3,7 +3,7 @@ Contributors: johnbillion
 Donate link: http://lud.icro.us/donations/
 Tags: password, logout
 Requires at least: 2.7
-Tested up to: 2.9.9
+Tested up to: 3.0
 Stable tag: trunk
 
 Provides a template tag for a link for visitors to log out of password protected posts. Add <code>do_action('posts_logout_link')</code> to your theme where you want the link to appear.
@@ -13,8 +13,6 @@ Provides a template tag for a link for visitors to log out of password protected
 There is no built-in way for your visitors to "log out" of password protected posts once they've entered the password. Even logged in users cannot log out of password protected posts by logging out of their account. This plugin solves that problem by providing a link for your visitors which will log them out of password protected posts when clicked.
 
 == Installation ==
-
-This plugin has only been tested with WordPress 2.7 and 2.8. It may or may not work with older versions.
 
 1. Unzip the ZIP file and drop the folder straight into your wp-content/plugins directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
